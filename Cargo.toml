@@ -1,0 +1,11 @@
+[package]
+name = "concrete-type-rules"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+concrete-type = "0.2.0"
+paste = "1.0"
+convert_case = "0.4.0"
+proc-macro2 = "1.0"
+quote = "1.0"
